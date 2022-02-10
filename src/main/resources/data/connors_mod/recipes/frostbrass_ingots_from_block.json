@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "connors_mod:frostbrass_block"
+    }
+  ],
+  "result": {
+    "item": "connors_mod:frostbrass_ingot",
+    "count": 9
+  }
+}

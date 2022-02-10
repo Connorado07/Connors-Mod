@@ -1,4 +1,12 @@
 {
+  "itemGroup.connors_mod.connor": "Connors Mod",
+
   "item.connors_mod.frostbrass_ingot": "Frostbrass Ingot",
-  "item.connors_mod.frostbrass_nugget": "Frostbrass Nugget"
+  "item.connors_mod.frostbrass_nugget": "Frostbrass Nugget",
+  "item.connors_mod.brass_ingot": "Brass Ingot",
+  "item.connors_mod.brass_nugget": "Brass Nugget",
+
+  "block.connors_mod.frostbrass_block": "Frostbrass Block",
+  "block.connors_mod.brass_ore": "Brass Ore",
+  "block.connors_mod.deepslate_brass_ore": "Deepslate Brass Ore"
 }

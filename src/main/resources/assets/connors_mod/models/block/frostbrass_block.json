@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "connors_mod:block/frostbrass_block"
+  }
+}
