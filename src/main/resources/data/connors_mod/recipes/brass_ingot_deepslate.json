@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "connors_mod:deepslate_brass_ore"
+  },
+  "result": "connors_mod:brass_ingot",
+  "experience": 4,
+  "cookingtime": 150
+}

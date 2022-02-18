@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#@#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blue_ice"
+    },
+    "@": {
+      "item": "connors_mod:brass_ingot"
+    }
+  },
+  "result": {
+    "item": "connors_mod:frostbrass_ingot",
+    "count": 2
+  }
+}

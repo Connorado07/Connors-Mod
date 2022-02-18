@@ -22,6 +22,7 @@ public class ModBlocks {
             new Block(FabricBlockSettings.of(Material.METAL).strength(6f).requiresTool()), ModItemGroups.CONNOR);
 
 
+
     private static Block registerBlock(String name, Block block, ItemGroup group){
         registerBlockItem(name, block, group);
         return Registry.register(Registry.BLOCK, new Identifier(ConnorsMod.MOD_ID, name), block);}

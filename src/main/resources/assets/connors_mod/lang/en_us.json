@@ -6,7 +6,13 @@
   "item.connors_mod.brass_ingot": "Brass Ingot",
   "item.connors_mod.brass_nugget": "Brass Nugget",
 
+  "item.connors_mod.copper_dowsing_rod": "Copper Dowsing Rod",
+
+  "item.connors_mod.frossteal_ingot": "Frossteal Ingot",
+
   "block.connors_mod.frostbrass_block": "Frostbrass Block",
   "block.connors_mod.brass_ore": "Brass Ore",
-  "block.connors_mod.deepslate_brass_ore": "Deepslate Brass Ore"
+  "block.connors_mod.deepslate_brass_ore": "Deepslate Brass Ore",
+
+  "item.connors_mod.dowsing_rod.no_valuables": "No Valuables Found."
 }

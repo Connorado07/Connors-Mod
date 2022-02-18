@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "connors_mod:brass_ore",
+    "connors_mod:deepslate_brass_ore",
+    "connors_mod:frostbrass_block"
+  ]
+}
