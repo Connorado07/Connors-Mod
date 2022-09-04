@@ -1,18 +1,27 @@
 {
   "itemGroup.connors_mod.connor": "Connors Mod",
+  "itemGroup.connors_mod.simplesabers": "Simple Sabers",
+  "ItemGroup.connors_mod.dnd_mod": "Dungeons & Dragons",
 
   "item.connors_mod.frostbrass_ingot": "Frostbrass Ingot",
   "item.connors_mod.frostbrass_nugget": "Frostbrass Nugget",
   "item.connors_mod.brass_ingot": "Brass Ingot",
   "item.connors_mod.brass_nugget": "Brass Nugget",
-
-  "item.connors_mod.copper_dowsing_rod": "Copper Dowsing Rod",
-
   "item.connors_mod.frossteal_ingot": "Frossteal Ingot",
-
   "block.connors_mod.frostbrass_block": "Frostbrass Block",
   "block.connors_mod.brass_ore": "Brass Ore",
   "block.connors_mod.deepslate_brass_ore": "Deepslate Brass Ore",
 
-  "item.connors_mod.dowsing_rod.no_valuables": "No Valuables Found."
+  "item.connors_mod.kyber_crystal_red": "Red Kyber Crystal",
+  "item.connors_mod.kyber_crystal_blue": "Blue Kyber Crystal",
+  "item.connors_mod.kyber_crystal_green": "Green Kyber Crystal",
+  "item.connors_mod.kyber_crystal_purple": "Purple Kyber Crystal",
+  "item.connors_mod.kyber_crystal_yellow": "Yellow Kyber Crystal",
+  "item.connors_mod.kyber_crystal_white": "White Kyber Crystal",
+  "item.connors_mod.red_lightsaber": "Red Lightsaber",
+  "item.connors_mod.blue_lightsaber": "Blue Lightsaber",
+  "item.connors_mod.green_lightsaber": "Green Lightsaber",
+  "item.connors_mod.purple_lightsaber": "Purple Lightsaber",
+  "item.connors_mod.yellow_lightsaber": "Yellow Lightsaber",
+  "item.connors_mod.white_lightsaber": "White Lightsaber"
 }

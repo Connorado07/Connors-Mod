@@ -1,0 +1,27 @@
+To Do:
+
+Fix Mixin triple print
+
+Add lang names
+
+Finish adding SimpleSabers Parts
+
+Fix crystal ore block models
+
+Textures:
+	Yellow Kyber Crystal
+	Red Kyber Crystal
+	Blue kyber crystal
+	green kyber crystal
+	white kyber crystal
+	purple kyber crystal
+	Ruby
+	Alexandrite
+	
+	
+In Order (by importance):
+	Textures
+	Lang names
+	Fix crystal ores
+	Mixin triple print
+	finish adding parts

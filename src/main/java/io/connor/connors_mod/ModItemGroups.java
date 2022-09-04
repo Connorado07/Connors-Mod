@@ -12,7 +12,7 @@ import net.minecraft.util.Identifier;
 public class ModItemGroups {
     public static final ItemGroup CONNOR = FabricItemGroupBuilder.build(new Identifier(ConnorsMod.MOD_ID, "connor"),
             () -> new ItemStack(ModItems.FROSTBRASS_INGOT));
-    public static final ItemGroup SABERS_GROUP = FabricItemGroupBuilder.build(new Identifier(ConnorsMod.MOD_ID, "sabers_group"),
+    public static final ItemGroup SABERS_GROUP = FabricItemGroupBuilder.build(new Identifier(ConnorsMod.MOD_ID, "simplesabers"),
             () -> new ItemStack(SingleLightsabers.RED_LIGHTSABER));
 
     public static final ItemGroup DND_MOD = FabricItemGroupBuilder.build(new Identifier(ConnorsMod.MOD_ID, "dnd_mod"),

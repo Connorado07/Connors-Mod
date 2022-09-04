@@ -14,17 +14,17 @@ import net.minecraft.util.registry.Registry;
 
 public class CrystalBlocks {
     public static final Block RED_ORE = registerBlock("red_ore",
-            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool()), ModItemGroups.SABERS_GROUP);
+            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool().collidable(false).luminance(3)), ModItemGroups.SABERS_GROUP);
     public static final Block BLUE_ORE = registerBlock("blue_ore",
-            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool()), ModItemGroups.SABERS_GROUP);
+            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool().collidable(false).luminance(3)), ModItemGroups.SABERS_GROUP);
     public static final Block GREEN_ORE = registerBlock("green_ore",
-            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool()), ModItemGroups.SABERS_GROUP);
+            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool().collidable(false).luminance(3)), ModItemGroups.SABERS_GROUP);
     public static final Block PURPLE_ORE = registerBlock("purple_ore",
-            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool()), ModItemGroups.SABERS_GROUP);
+            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool().collidable(false).luminance(3)), ModItemGroups.SABERS_GROUP);
     public static final Block YELLOW_ORE = registerBlock("yellow_ore",
-            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool()), ModItemGroups.SABERS_GROUP);
+            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool().collidable(false).luminance(3)), ModItemGroups.SABERS_GROUP);
     public static final Block WHITE_ORE = registerBlock("white_ore",
-            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool()), ModItemGroups.SABERS_GROUP);
+            new Block(FabricBlockSettings.of(Material.AMETHYST).strength(6f).requiresTool().collidable(false).luminance(3)), ModItemGroups.SABERS_GROUP);
 
 
     private static Block registerBlock(String name, Block block, ItemGroup group){
