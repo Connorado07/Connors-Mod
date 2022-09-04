@@ -1,10 +1,11 @@
 package io.connor.connors_mod;
 
+import io.connor.connors_mod.DnD.DndMod;
 import io.connor.connors_mod.Star_Wars.blocks.CrystalBlocks;
 import io.connor.connors_mod.Star_Wars.items.StarWarsItems;
 import io.connor.connors_mod.Star_Wars.lightsabers.SingleLightsabers;
-import io.connor.connors_mod.block.ModBlocks;
-import io.connor.connors_mod.item.ModItems;
+import io.connor.connors_mod.Connor.block.ModBlocks;
+import io.connor.connors_mod.Connor.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
 import net.minecraft.client.render.RenderLayer;
@@ -18,9 +19,12 @@ public class ConnorsMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		//Connor
 		ModItems.registerModItems();
 		ModBlocks.registeryModBlocks();
 
+		//DnD
+		DndMod.registerModItems();
 
 		//Star Wars
 		SingleLightsabers.registerModItems();
@@ -28,7 +32,7 @@ public class ConnorsMod implements ModInitializer {
 		StarWarsItems.registerModItems();
 
 
-		//Random init stuff
+		//Block Render
 		BlockRenderLayerMap.INSTANCE.putBlock(CrystalBlocks.RED_ORE, RenderLayer.getCutout());
 		BlockRenderLayerMap.INSTANCE.putBlock(CrystalBlocks.BLUE_ORE, RenderLayer.getCutout());
 		BlockRenderLayerMap.INSTANCE.putBlock(CrystalBlocks.GREEN_ORE, RenderLayer.getCutout());

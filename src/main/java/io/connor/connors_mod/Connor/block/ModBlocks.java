@@ -1,4 +1,4 @@
-package io.connor.connors_mod.block;
+package io.connor.connors_mod.Connor.block;
 
 import io.connor.connors_mod.ConnorsMod;
 import io.connor.connors_mod.ModItemGroups;
