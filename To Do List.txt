@@ -9,12 +9,6 @@ Finish adding SimpleSabers Parts
 Fix crystal ore block models
 
 Textures:
-	Yellow Kyber Crystal
-	Red Kyber Crystal
-	Blue kyber crystal
-	green kyber crystal
-	white kyber crystal
-	purple kyber crystal
 	Ruby
 	Alexandrite
 	

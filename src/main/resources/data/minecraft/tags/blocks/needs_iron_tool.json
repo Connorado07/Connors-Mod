@@ -3,6 +3,12 @@
   "values": [
     "connors_mod:brass_ore",
     "connors_mod:deepslate_brass_ore",
-    "connors_mod:frostbrass_block"
+    "connors_mod:frostbrass_block",
+    "connors_mod:red_ore",
+    "connors_mod:blue_ore",
+    "connors_mod:green_ore",
+    "connors_mod:yellow_ore",
+    "connors_mod:purple_ore",
+    "connors_mod:white_ore"
   ]
 }
