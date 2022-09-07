@@ -25,13 +25,20 @@ public class StarWarsItems {
             new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).rarity(Rarity.RARE).maxCount(1)));
 
     //Materials
-    public static final Item DURASTEEL_INGOT = new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP));
-    public static final Item PLASTANIUM_INGOT = new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP));
-    public static final Item QUADERNIUM_INGOT = new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP));
-    public static final Item FOCUS_CRYSTAL = new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).maxCount(1));
-    public static final Item BOTTOM_SABER_PART = new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).maxCount(16).rarity(Rarity.UNCOMMON));
-    public static final Item TOP_SABER_PART = new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).maxCount(16).rarity(Rarity.UNCOMMON));
-    public static final Item PLASTANIUM_BALL = new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP));
+    public static final Item DURASTEEL_INGOT = registerItem("durasteel_ingot",
+            new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).rarity(Rarity.UNCOMMON).maxCount(64)));
+    public static final Item PLASTANIUM_INGOT = registerItem("plastanium_ingot",
+            new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).rarity(Rarity.UNCOMMON).maxCount(64)));
+    public static final Item QUADERNIUM_INGOT = registerItem("quadernium_ingot",
+            new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).rarity(Rarity.UNCOMMON).maxCount(64)));
+    public static final Item FOCUS_CRYSTAL = registerItem("focus_crystal",
+            new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).rarity(Rarity.UNCOMMON).maxCount(64)));
+    public static final Item BOTTOM_SABER_PART = registerItem("bottom_saber_part",
+            new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).rarity(Rarity.UNCOMMON).maxCount(64)));
+    public static final Item TOP_SABER_PART = registerItem("top_saber_part",
+            new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).rarity(Rarity.UNCOMMON).maxCount(64)));
+    public static final Item PLASTANIUM_BALL = registerItem("plastanium_ball",
+            new Item(new FabricItemSettings().group(ModItemGroups.SABERS_GROUP).rarity(Rarity.UNCOMMON).maxCount(64)));
 
 
     private static Item registerItem(String name, Item item){

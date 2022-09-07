@@ -1,9 +1,5 @@
 To Do:
 
-Fix Mixin triple print
-
-Add lang names
-
 Finish adding SimpleSabers Parts
 
 Fix crystal ore block models

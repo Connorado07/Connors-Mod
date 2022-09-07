@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "T",
+    "C",
+    "B"
+  ],
+  "key": {
+    "T": {
+      "item": "connors_mod:top_saber_part"
+    },
+    "C": {
+      "item": "connors_mod:red_kyber_crystal"
+    },
+    "B": {
+      "item": "connors_mod:bottom_saber_part"
+    }
+  },
+  "result": {
+    "item": "connors_mod:red_lightsaber",
+    "count": 1
+  }
+}

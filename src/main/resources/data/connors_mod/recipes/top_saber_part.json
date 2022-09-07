@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "qgq",
+    "ici",
+    "iii"
+  ],
+  "key": {
+    "q": {
+      "item": "connors_mod:quadernium_ingot"
+    },
+	 "g": {
+      "item": "minecraft:glass"
+    },
+    "c": {
+      "item": "connors_mod:focus_crystal"
+	},
+    "i": {
+      "item": "connors_mod:durasteel_ingot"
+    }
+  },
+  "result": {
+    "item": "connors_mod:top_saber_part",
+    "count": 1
+  }
+}

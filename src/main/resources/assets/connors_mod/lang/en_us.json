@@ -12,12 +12,12 @@
   "block.connors_mod.brass_ore": "Brass Ore",
   "block.connors_mod.deepslate_brass_ore": "Deepslate Brass Ore",
 
-  "item.connors_mod.kyber_crystal_red": "Red Kyber Crystal",
-  "item.connors_mod.kyber_crystal_blue": "Blue Kyber Crystal",
-  "item.connors_mod.kyber_crystal_green": "Green Kyber Crystal",
-  "item.connors_mod.kyber_crystal_purple": "Purple Kyber Crystal",
-  "item.connors_mod.kyber_crystal_yellow": "Yellow Kyber Crystal",
-  "item.connors_mod.kyber_crystal_white": "White Kyber Crystal",
+  "item.connors_mod.red_kyber_crystal": "Red Kyber Crystal",
+  "item.connors_mod.blue_kyber_crystal": "Blue Kyber Crystal",
+  "item.connors_mod.green_kyber_crystal": "Green Kyber Crystal",
+  "item.connors_mod.purple_kyber_crystal": "Purple Kyber Crystal",
+  "item.connors_mod.yellow_kyber_crystal": "Yellow Kyber Crystal",
+  "item.connors_mod.white_kyber_crystal": "White Kyber Crystal",
   "item.connors_mod.red_lightsaber": "Red Lightsaber",
   "item.connors_mod.blue_lightsaber": "Blue Lightsaber",
   "item.connors_mod.green_lightsaber": "Green Lightsaber",
@@ -29,6 +29,12 @@
   "block.connors_mod.green_ore": "Green Kyber Ore",
   "block.connors_mod.purple_ore": "Purple Kyber Ore",
   "block.connors_mod.yellow_ore": "Yellow Kyber Ore",
-  "block.connors_mod.white_ore": "White Kyber Ore"
-
+  "block.connors_mod.white_ore": "White Kyber Ore",
+  "item.connors_mod.durasteel_ingot": "Durasteel Ingot",
+  "item.connors_mod.plastanium_ingot": "Plastanium Ingot",
+  "item.connors_mod.quadernium_ingot": "Quadernium Ingot",
+  "item.connors_mod.focus_crystal": "Focus Crystal",
+  "item.connors_mod.top_saber_part": "Top Saber Part",
+  "item.connors_mod.bottom_saber_part": "Bottom Saber Part",
+  "item.connors_mod.plastanium_ball": "Plastanium Ball"
 }

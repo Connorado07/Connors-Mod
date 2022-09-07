@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_ingot"
+  },
+  "addition": {
+    "item": "connors_mod:plastanium_ball"
+  },
+  "result": {
+    "item": "connors_mod:plastanium_ingot"
+  }
+}

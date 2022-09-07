@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "GDG",
+    "PPP"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "P": {
+      "item": "connors_mod:plastanium_ingot"
+    },
+	 "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "connors_mod:focus_crystal",
+    "count": 1
+  }
+}
