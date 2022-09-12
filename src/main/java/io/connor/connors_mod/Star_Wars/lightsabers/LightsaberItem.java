@@ -50,7 +50,7 @@ public class LightsaberItem extends ToolItem implements Vanishable {
     }
 
     public boolean postHit(ItemStack stack, LivingEntity target, LivingEntity attacker) {
-        stack.damage(1, attacker, (e) -> {
+        stack.damage(0, attacker, (e) -> {
             e.sendEquipmentBreakStatus(EquipmentSlot.MAINHAND);
         });
         return true;
@@ -58,7 +58,7 @@ public class LightsaberItem extends ToolItem implements Vanishable {
 
     public boolean postMine(ItemStack stack, World world, BlockState state, BlockPos pos, LivingEntity miner) {
         if (state.getHardness(world, pos) != 0.0F) {
-            stack.damage(2, miner, (e) -> {
+            stack.damage(0, miner, (e) -> {
                 e.sendEquipmentBreakStatus(EquipmentSlot.MAINHAND);
             });
         }

@@ -9,7 +9,7 @@ public class LightsaberToolMaterial implements ToolMaterial {
 
     @Override
     public int getDurability() {
-        return 12387;
+        return 999999;
     }
 
     @Override
